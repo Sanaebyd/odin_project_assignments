@@ -2,4 +2,4 @@ console.log("Hallo Welt");
 let username = "Sanae";
 
 console.log(username);
-console.log(23+97)
+console.log(23+97);
