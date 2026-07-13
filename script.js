@@ -12,4 +12,4 @@ let b = 7 * a;
 console.log(b);
 
 const MyInt = 5;
-MyInt;
+console.log(MyInt);
