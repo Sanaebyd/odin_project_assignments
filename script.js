@@ -13,3 +13,8 @@ console.log(b);
 
 const MyInt = 5;
 console.log(MyInt);
+
+let x = 3; // x contains the value 3
+let y = 4; // y contains the value 4
+x *= y; // x now contains the value 12
+console.log(x);
