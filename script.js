@@ -23,3 +23,9 @@ function add7 (a){
     return a + 7
 }
 console.log (add7(10))
+
+function multiply (a,b) {
+    return a*b
+}
+
+console.log(multiply(3,2))
